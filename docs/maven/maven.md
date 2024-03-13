@@ -92,3 +92,35 @@ Onde:
 
 - [Andeson Gome - Maven Criando um Projeto Maven Simples](https://medium.com/@andgomes/criando-um-projeto-maven-simples-a2ad88b25e78)
 - [Maven](https://maven.apache.org/ref/3.9.6/maven-model/maven.html)
+
+https://medium.com/@andgomes/maven-gerando-jars-execut%C3%A1veis-com-projetos-com-depend%C3%AAncias-5bcd022058ee
+https://medium.com/@andgomes/gerando-jars-execut%C3%A1veis-b8492eab3671
+https://medium.com/@andgomes/maven-protegendo-informa%C3%A7%C3%B5es-sens%C3%ADveis-em-projetos-compartilhados-1b4834befdca
+https://medium.com/@andgomes/maven-java-lendo-arquivos-de-resource-a-partir-de-programas-java-a357bb193da0
+https://medium.com/@andgomes/maven-centralizando-declara%C3%A7%C3%B5es-de-depend%C3%AAncias-ac4cb137b988
+https://medium.com/@andgomes/maven-instalando-um-artefato-no-reposit%C3%B3rio-local-bdf2c599e301
+https://medium.com/@andgomes/tipos-de-escopo-de-depend%C3%AAncia-4ef1168ee5dd
+https://medium.com/@andgomes/maven-adicionando-os-javadocs-ao-site-de-um-projeto-b3352207bfbc
+https://medium.com/@andgomes/gerando-os-javadocs-de-um-projeto-b7f03c30dc6e
+https://medium.com/@andgomes/maven-gerando-a-p%C3%A1gina-web-de-um-projeto-cd3e97ee29b3
+https://medium.com/@andgomes/maven-gerando-a-p%C3%A1gina-web-de-um-projeto-cd3e97ee29b3
+https://medium.com/@andgomes/utilizando-a-heran%C3%A7a-entre-projetos-2bb1c8981ba9
+https://medium.com/@andgomes/maven-gerando-um-arquivo-jar-execut%C3%A1vel-435b7135e400
+https://medium.com/@andgomes/maven-agregando-projetos-468986793705
+https://medium.com/@andgomes/gerando-o-arquivo-distribu%C3%ADvel-de-um-projeto-c5d6821be059
+https://medium.com/@andgomes/adicionando-depend%C3%AAncias-c081e8086c11
+https://medium.com/@andgomes/ativando-profiles-atrav%C3%A9s-de-properties-cc18d2999d49
+https://medium.com/@andgomes/criando-profiles-18e827223122
+https://medium.com/@andgomes/controlando-a-verbosidade-do-build-d628ebcfa2c5
+https://medium.com/@andgomes/configurando-o-source-encoding-de-um-projeto-d988c8883b65
+https://medium.com/@andgomes/visualizando-o-effective-pom-de-um-projeto-109321bd44e7
+https://medium.com/@andgomes/alterando-a-localiza%C3%A7%C3%A3o-do-reposit%C3%B3rio-local-419a1a03b58c
+https://medium.com/@andgomes/filtrando-arquivos-de-recurso-36f82b856c12
+https://medium.com/@andgomes/copiando-arquivos-de-recurso-com-o-plugin-resources-948a4b76118
+https://medium.com/@andgomes/os-ciclos-de-vida-do-maven-cefc18ba8ff3
+https://medium.com/@andgomes/executando-testes-unit%C3%A1rios-com-o-plugin-surefire-ffdac17601a1
+https://medium.com/@andgomes/limpando-diret%C3%B3rios-adicionais-com-o-plugin-clean-56405bc48d83
+https://medium.com/@andgomes/limpando-o-build-automaticamente-com-o-plugin-clean-a69a413dabeb
+https://medium.com/@andgomes/limpando-o-build-com-o-plugin-clean-2ed8ab63d239
+https://medium.com/@andgomes/compilando-com-um-jdk-diferente-3778869b85ca
+https://medium.com/@andgomes/compilando-com-o-plugin-compiler-do-maven-13c4afe12858
